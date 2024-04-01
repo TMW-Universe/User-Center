@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@ant-design/colors": "^7.0.2",
-    "@ant-design/icons": "^5.2.6",
+    "@ant-design/icons": "^5.3.6",
     "@tanstack/react-query": "^4.35.3",
     "@tmw-universe/react-tmw-universe-authentication-utils": "^2.7.1",
     "@tmw-universe/tmw-universe-types": "^1.1.0",
