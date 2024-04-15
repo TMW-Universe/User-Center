@@ -17,7 +17,7 @@
     "@tmw-universe/react-tmw-universe-authentication-utils": "^2.7.1",
     "@tmw-universe/tmw-universe-types": "^1.1.0",
     "@types/lodash": "^4.14.201",
-    "antd": "^5.11.0",
+    "antd": "^5.16.2",
     "axios": "^1.6.2",
     "classnames": "^2.3.2",
     "date-fns": "^2.30.0",
